@@ -1,6 +1,6 @@
 zhangycx
 ========
-this is a jquery tool,it is my the first tool too;
+this is a jquery tool;
 
 http://wuyuans.com/2012/05/github-simple-tutorial/
 
